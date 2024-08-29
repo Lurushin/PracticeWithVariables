@@ -11,6 +11,7 @@ public class Variables
         char charOne = 65;
         boolean booleanOne = false;
         String stringOne = "Hello World";
+
         System.out.println("/////////////////////////////////////");
         System.out.println("*Luke Rushing               08/29/24*");
         System.out.println("*                                   *");
