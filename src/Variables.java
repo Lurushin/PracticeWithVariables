@@ -5,7 +5,7 @@ public class Variables
         byte byteOne = 64;
         short shortOne = 200;
         int intOne = 4000000;
-        long longOne = 700000000;
+        long longOne = -999999999;
         float floatOne = 3.1416f;
         double doubleOne = 3.14159;
         char charOne = 65;
@@ -20,7 +20,7 @@ public class Variables
         System.out.println("*8 bit - byteOne = "+byteOne+"               *");
         System.out.println("*16 bit - shortOne = "+shortOne+"            *");
         System.out.println("*32 bit - intOne = "+intOne+"          *");
-        System.out.println("*64 bit - longOne = "+longOne+"       *");
+        System.out.println("*64 bit - longOne = "+longOne+"      *");
         System.out.println("*                                   *");
         System.out.println("*            real types             *");
         System.out.println("*                                   *");
