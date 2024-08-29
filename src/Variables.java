@@ -10,7 +10,7 @@ public class Variables
         double doubleOne = 3.14159;
         char charOne = 65;
         boolean booleanOne = false;
-        String stringOne = "A";
+        String stringOne = "Hello World";
         System.out.println("/////////////////////////////////////");
         System.out.println("*Luke Rushing               08/29/24*");
         System.out.println("*                                   *");
@@ -33,7 +33,7 @@ public class Variables
         System.out.println("*            other types            *");
         System.out.println("*                                   *");
         System.out.println("*booleanOne = "+booleanOne+"                 *");
-        System.out.println("*stringOne = "+stringOne+"                      *");
+        System.out.println("*stringOne = "+stringOne+"            *");
         System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
     }
 }
